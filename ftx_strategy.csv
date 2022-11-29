@@ -1,0 +1,4 @@
+stock_id,id,symbol,name,current_price,ticker,chart_ticker
+0,bitcoin,btc,Bitcoin,42549,BTC-USD,BINANCEUS:BTCUSD
+1,ethereum,eth,Ethereum,3067.29,ETH-USD,BINANCEUS:ETHUSD
+2,perpetual-protocol,perpetual-protocol,perpetual-protocol,1,PERP-USD,BINANCEUS:PERPUSD
